@@ -17,6 +17,10 @@ docker pull cubetiq/jdk-wkhtmltopdf:dev
 ```sh
 docker run -it --rm cubetiq/jdk-wkhtmltopdf:dev
 ```
+#### Testing the command
+```sh
+# wkhtmltopdf -H
+```
 
 ##### Link
 Docker: [Link to docker hub](https://hub.docker.com/r/cubetiq/jdk-wkhtmltopdf)
