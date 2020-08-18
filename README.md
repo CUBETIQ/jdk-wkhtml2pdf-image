@@ -1,7 +1,8 @@
 ### Zulu JDK 1.8 + WKHTML2PDF + Khmer Fonts supported
 Zulu OpenJDK and WkHtmlToPdf for CUBETIQ Solution Apps. 
 <br />
-What's includes?
+
+<b>What's includes?</b>
 - [x] Zulu OpenJDK 1.8
 - [x] Wkhtml2pdf (latest) precompiled with Khmer Fonts (almost khmer's fonts support)
 - [x] Request Web Service that built on-top with Spring Boot and Kotlin
