@@ -14,3 +14,8 @@ docker run -it --rm cubetiq/jdk-wkhtmltopdf:dev
 
 ##### Author
 Sambo Chea <sombochea@cubetiqs.com>
+
+
+#### WANRNING
+We use only in development mode.
+If have any questions, let put us an issue!
